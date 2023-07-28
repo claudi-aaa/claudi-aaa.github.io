@@ -169,6 +169,10 @@
     border-radius: 15px;
 }
 
+#treeImage {
+    border: none;
+}
+
 .projectImage:hover {
     transform: scale(1.1);
     z-index: 8;
